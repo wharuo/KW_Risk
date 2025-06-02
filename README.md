@@ -1,4 +1,8 @@
+
 # KW RiskDetector
+
+![image](https://github.com/user-attachments/assets/1255d92a-d481-47d2-86ff-fbf077ffc958)
+
 
 **Smart Claims Automation & Fraud Detection**
 
